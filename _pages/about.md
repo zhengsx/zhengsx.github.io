@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Dr. Shuxin Zheng (郑书新) is a principal researcher at Microsoft Research, where he leads the Scientific Foundation Model project. He obtained his B.S. and Ph.D. degrees from the University of Science and Technology of China (USTC) in 2014 and 2019, respectively, under the supervision of [Prof. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and [Prof. Nenghai Yu](http://staff.ustc.edu.cn/~ynh/). He joined Microsoft Research as a researcher in 2019, and was promoted to senior researcher in 2021 and principal researcher in 2023. His research interests span general AI and generative AI, and their applications in scientific domains. He has published more than 20 papers on top-tier AI or scientific venues, and received over 2000 citations. He is also an adjunct lecturer at Tsinghua University, Chinese Academy of Sciences, and the Microsoft AI School, where he teaches “Machine Learning Methods and Application Fundamentals” and “Advanced Machine Learning”.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+His representative works include:
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+1. Graphormer [arxiv](https://arxiv.org/pdf/2106.05234.pdf) [github](https://github.com/microsoft/Graphormer) [blog](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/transformer-stands-out-as-the-best-graph-learner-researchers-from-microsoft-research-asia-wins-the-kdd-cups-2021-graph-prediction-track/): the first general-purpose Transformer for graph data, which won the 1st place of KDD Cup 2021 OGB-LSC challenge [kdd](https://ogb.stanford.edu/kddcup2021/results/) [technical report](https://arxiv.org/abs/2106.08279) and the 1st Open Catalyst Challenge [link](https://proceedings.mlr.press/v176/das22a/das22a.pdf), outperforming teams from Google DeepMind, Meta AI Research, and others.
+2. General Graphormer (GeG): the world’s largest foundation model (with 22 billion parameters) for molecular science, which can perform multiple scientific tasks across different domains and scales, and serve as a powerful scientific assistant for accelerating scientific discovery.
+3. Distributional Graphormer (DiG) [demo](https://distributionalgraphormer.github.io/) [arxiv](https://arxiv.org/abs/2306.05445) [blog](https://www.microsoft.com/en-us/research/blog/distributional-graphormer-toward-equilibrium-distribution-prediction-for-molecular-systems/): a breakthrough model that goes beyond AlphaFold2 by predicting the equilibrium distribution of protein structures, rather than a single structure. DiG is also a disruptive innovation in statistical mechanics, where it uses generative AI technology to revolutionize traditional molecular dynamics simulation or sampling methods.
+4. DeepRSM [paper](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c02923): a joint work with the School of Environment of Tsinghua University, which developed an AI numerical model for regional air quality and climate modeling, and was adopted by China’s “14th Five-Year Plan” as the core technology for controlling air pollution and carbon emission in China.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+郑书新博士于微软研究院担任首席研究员一职，并领导科学基础模型研究项目。他的研究兴趣涵盖通用AI与生成式AI，以及它们在科学领域的应用。他带领团队多次在科学智能(AI for Science)主题的 国际竞赛中夺冠，并在顶级人工智能或科学期刊上发表20余篇论文，引用超过2000次。郑书新研究员长期担任国际顶级AI会议与期刊审稿人，并在清华大学、中科院和微软人工智能学院等担任客座讲师，讲授《机器学习方法与应用基础》和《高等机器学习》课程。
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I’m looking for highly-motivated collaborators all the time. Please contact me if you’re interested: shuxin.zheng[at]foxmail.com.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
