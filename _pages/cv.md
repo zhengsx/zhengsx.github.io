@@ -11,7 +11,7 @@ redirect_from:
 
 Invited Talks
 ======
-* Distributional Graphormer: beyond AlphaFold2. [[MIT](https://m2d2.io/talks/logg/about/)][[]()]
+* Distributional Graphormer: beyond AlphaFold2. [[MIT](https://m2d2.io/talks/logg/about/)][[YuMuHan](https://www.bilibili.com/video/BV1kV41137ud)]
 * Graphormer: a general-purpose backbone for graph data. [[ReadPaper](https://www.bilibili.com/video/BV1GL411R7h7)][[YuMuHan](https://www.bilibili.com/video/BV1eF411A76S/?spm_id_from=333.337.search-card.all.click&vd_source=068279d427fb47cf7a5570959a5e27a3)][[MSRA](https://www.bilibili.com/video/BV1Sr4y1Q77m)]
 * AI for Sustainability, Microsoft Research Summit.[[link](https://www.microsoft.com/en-us/research/video/research-talks-research-partners-on-innovation-for-carbon-neutralization/)]
 * Modeling Lost Information in Signal Processing.[[JiShi](https://www.bilibili.com/video/BV1YT4y1L7F3)]
