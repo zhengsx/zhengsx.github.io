@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Shuxin Zheng (郑书新), a Principal Researcher at Microsoft Research, serves as an Industrial Adjunct Lecturer at Chinese Academy of Sciences and is the Lead for Microsoft's foundational science models. He has won multiple world championships in artificial intelligence and has trained the largest scientific model to date. He has published over 20 papers in top-tier scientific journals and AI conferences like Nature Computational Science, and Nature Machine Intelligence, accumulating over 3000 citations. Dr. Zheng regularly serves as a reviewer for premier AI conferences and journals, and as a guest lecturer at Tsinghua University, the Chinese Academy of Sciences, and the Microsoft AI Academy, teaching general courses like "Foundations of Machine Learning Methods and Applications" and "Advanced Machine Learning."
+Dr. Shuxin Zheng (郑书新), a Principal Researcher at Microsoft Research, serves as an Industrial Adjunct Lecturer at Chinese Academy of Sciences and is the Lead for Microsoft's scientific foundation models. He has won multiple world championships in artificial intelligence and has trained the largest scientific foundation model to date. He has published over 20 papers in top-tier scientific journals and AI conferences like Nature Computational Science, and Nature Machine Intelligence, accumulating over 3000 citations. Dr. Zheng regularly serves as a reviewer for premier AI conferences and journals, and as a guest lecturer at Tsinghua University, the Chinese Academy of Sciences, and the Microsoft AI Academy, teaching general courses like "Foundations of Machine Learning Methods and Applications" and "Advanced Machine Learning."
 
 His representative works include:
 
