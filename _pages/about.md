@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Shuxin Zheng (郑书新), former Principal Researcher at Microsoft Research, serves as an Industrial Adjunct Lecturer at Chinese Academy of Sciences and is the Lead for Microsoft's scientific foundation models. He has won multiple world championships in artificial intelligence and has trained the largest scientific foundation model to date. He has published over 20 papers in top-tier scientific journals and AI conferences like Nature Computational Science, and Nature Machine Intelligence, accumulating over 3000 citations. Dr. Zheng regularly serves as a reviewer for premier AI conferences and journals, and as a guest lecturer at Tsinghua University, the Chinese Academy of Sciences, and the Microsoft AI Academy, teaching general courses like "Foundations of Machine Learning Methods and Applications" and "Advanced Machine Learning."
+Dr. Shuxin Zheng(郑书新) is the Deputy Director of Zhongguancun Institute of Artificial Intelligence and an Industrial Advisor at the Chinese Academy of Sciences. As a former Principal Researcher at Microsoft Research and Lead for Microsoft's scientific foundation models, he has won multiple world championships in artificial intelligence and trained the largest scientific foundation model to date. He has published over 20 first-author and corresponding-author papers in Nature subsidiary journals and top international AI conferences, with his academic work being cited more than 4,000 times. He regularly serves as a reviewer for premier AI conferences and journals, while also working as a guest lecturer at Tsinghua University, Chinese Academy of Sciences, and Microsoft AI Academy, where he teaches courses including "Machine Learning Methods and Basic Applications" and "Advanced Machine Learning".
 
 <!-- 
 His representative works include:
@@ -20,7 +20,7 @@ His representative works include:
 
 -->
 
-郑书新博士，前微软研究院首席研究员，中科院企业导师，微软科学基础模型负责人，多项人工智能世界冠军，并训练了迄今最大的科学大模型。郑书新博士在《自然》大子刊及顶级国际人工智能会议发表一作和通讯论文20余篇，学术引用超过3000次，并长期担任国际顶级AI会议与期刊审稿人。郑书新研究员在清华大学、中科院和微软人工智能学院等担任客座讲师，长期讲授《机器学习方法与应用基础》和《高等机器学习》等课程。
+郑书新博士，中关村人工智能研究院副院长，中科院企业导师。前微软研究院首席研究员，微软科学基础模型负责人，多项人工智能世界冠军，训练了迄今最大的科学大模型。郑书新博士在《自然》大子刊及顶级国际人工智能会议发表一作和通讯论文20余篇，学术引用超过4000次，并长期担任国际顶级AI会议与期刊审稿人。郑书新博士在清华大学、中科院和微软人工智能学院等担任客座讲师，长期讲授《机器学习方法与应用基础》和《高等机器学习》等课程。
 
 Email: shuxinzheng[at]foxmail.com.
 
