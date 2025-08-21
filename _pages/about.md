@@ -19,7 +19,7 @@ His representative works include:
 
 -->
 
-郑书新博士，北京中关村学院副教授，现任中关村人工智能研究院副院长，北京中关村学院AI基础学部大模型与智能体方向负责人，中科院企业导师。主要研究方向为，大模型、生成式人工智能及其在科学领域的应用，其科研成果发表于《Science》封面，《Nature Machine Intelligence》，《Nature Computational Science》，《Nature Cell Biology》等国际期刊与ICML/ICLR/NeurIPS等国际会议，谷歌学术引用超过5000次。担任[《AI for Science》](https://iopscience.iop.org/journal/3050-287X)期刊副主编，并长期担任AI国际期刊与会议审稿人。郑书新博士2019年毕业于中科大-微软亚研院联合培养博士项目，2014年本科毕业于中国科学技术大学，曾任微软研究院首席研究员，曾获多项人工智能世界冠军。
+郑书新博士，北京中关村学院副教授，现任中关村人工智能研究院副院长，北京中关村学院AI基础学部大模型与智能体方向负责人，中科院企业导师。主要研究方向为，大模型、生成式人工智能及其在科学领域的应用，其科研成果发表于[《Science》封面](https://www.science.org/toc/science/389/6761)，《Nature Machine Intelligence》，《Nature Computational Science》，《Nature Cell Biology》等国际期刊与ICML/ICLR/NeurIPS等国际会议，谷歌学术引用超过5000次。担任[《AI for Science》](https://iopscience.iop.org/journal/3050-287X)期刊副主编，并长期担任AI国际期刊与会议审稿人。郑书新博士2019年毕业于中科大-微软亚研院联合培养博士项目，2014年本科毕业于中国科学技术大学，曾任微软研究院首席研究员，曾获多项人工智能世界冠军。
 
 Email: sz[at]zgci.ai
 
